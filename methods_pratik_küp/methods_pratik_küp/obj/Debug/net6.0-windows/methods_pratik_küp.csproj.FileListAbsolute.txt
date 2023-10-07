@@ -1,0 +1,16 @@
+C:\Users\devra\Desktop\C# Projelerim\methods_pratik_küp\methods_pratik_küp\bin\Debug\net6.0-windows\methods_pratik_küp.exe
+C:\Users\devra\Desktop\C# Projelerim\methods_pratik_küp\methods_pratik_küp\bin\Debug\net6.0-windows\methods_pratik_küp.deps.json
+C:\Users\devra\Desktop\C# Projelerim\methods_pratik_küp\methods_pratik_küp\bin\Debug\net6.0-windows\methods_pratik_küp.runtimeconfig.json
+C:\Users\devra\Desktop\C# Projelerim\methods_pratik_küp\methods_pratik_küp\bin\Debug\net6.0-windows\methods_pratik_küp.dll
+C:\Users\devra\Desktop\C# Projelerim\methods_pratik_küp\methods_pratik_küp\bin\Debug\net6.0-windows\methods_pratik_küp.pdb
+C:\Users\devra\Desktop\C# Projelerim\methods_pratik_küp\methods_pratik_küp\obj\Debug\net6.0-windows\methods_pratik_küp.Form1.resources
+C:\Users\devra\Desktop\C# Projelerim\methods_pratik_küp\methods_pratik_küp\obj\Debug\net6.0-windows\methods_pratik_küp.csproj.GenerateResource.cache
+C:\Users\devra\Desktop\C# Projelerim\methods_pratik_küp\methods_pratik_küp\obj\Debug\net6.0-windows\methods_pratik_küp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devra\Desktop\C# Projelerim\methods_pratik_küp\methods_pratik_küp\obj\Debug\net6.0-windows\methods_pratik_küp.AssemblyInfoInputs.cache
+C:\Users\devra\Desktop\C# Projelerim\methods_pratik_küp\methods_pratik_küp\obj\Debug\net6.0-windows\methods_pratik_küp.AssemblyInfo.cs
+C:\Users\devra\Desktop\C# Projelerim\methods_pratik_küp\methods_pratik_küp\obj\Debug\net6.0-windows\methods_pratik_küp.csproj.CoreCompileInputs.cache
+C:\Users\devra\Desktop\C# Projelerim\methods_pratik_küp\methods_pratik_küp\obj\Debug\net6.0-windows\methods_pratik_küp.dll
+C:\Users\devra\Desktop\C# Projelerim\methods_pratik_küp\methods_pratik_küp\obj\Debug\net6.0-windows\refint\methods_pratik_küp.dll
+C:\Users\devra\Desktop\C# Projelerim\methods_pratik_küp\methods_pratik_küp\obj\Debug\net6.0-windows\methods_pratik_küp.pdb
+C:\Users\devra\Desktop\C# Projelerim\methods_pratik_küp\methods_pratik_küp\obj\Debug\net6.0-windows\methods_pratik_küp.genruntimeconfig.cache
+C:\Users\devra\Desktop\C# Projelerim\methods_pratik_küp\methods_pratik_küp\obj\Debug\net6.0-windows\ref\methods_pratik_küp.dll
